@@ -1,0 +1,13 @@
+C:\Users\Debora\Desktop\Tecnologia de jogos Digitais 1 semestre\2º semestre\ATP\puzzelNumeros\puzzelNumeros\bin\Debug\puzzelNumeros.exe
+C:\Users\Debora\Desktop\Tecnologia de jogos Digitais 1 semestre\2º semestre\ATP\puzzelNumeros\puzzelNumeros\bin\Debug\puzzelNumeros.pdb
+C:\Users\Debora\Desktop\Tecnologia de jogos Digitais 1 semestre\2º semestre\ATP\puzzelNumeros\puzzelNumeros\obj\x86\Debug\puzzelNumeros.csprojResolveAssemblyReference.cache
+C:\Users\Debora\Desktop\Tecnologia de jogos Digitais 1 semestre\2º semestre\ATP\puzzelNumeros\puzzelNumeros\obj\x86\Debug\puzzelNumeros.exe
+C:\Users\Debora\Desktop\Tecnologia de jogos Digitais 1 semestre\2º semestre\ATP\puzzelNumeros\puzzelNumeros\obj\x86\Debug\puzzelNumeros.pdb
+C:\Users\debor\OneDrive\Área de Trabalho\SENAI\Arquivos Puc\ATP\puzzelNumeros\puzzelNumeros\bin\Debug\puzzelNumeros.exe.config
+C:\Users\debor\OneDrive\Área de Trabalho\SENAI\Arquivos Puc\ATP\puzzelNumeros\puzzelNumeros\bin\Debug\puzzelNumeros.exe
+C:\Users\debor\OneDrive\Área de Trabalho\SENAI\Arquivos Puc\ATP\puzzelNumeros\puzzelNumeros\bin\Debug\puzzelNumeros.pdb
+C:\Users\debor\OneDrive\Área de Trabalho\SENAI\Arquivos Puc\ATP\puzzelNumeros\puzzelNumeros\obj\x86\Debug\puzzelNumeros.csproj.AssemblyReference.cache
+C:\Users\debor\OneDrive\Área de Trabalho\SENAI\Arquivos Puc\ATP\puzzelNumeros\puzzelNumeros\obj\x86\Debug\puzzelNumeros.csproj.SuggestedBindingRedirects.cache
+C:\Users\debor\OneDrive\Área de Trabalho\SENAI\Arquivos Puc\ATP\puzzelNumeros\puzzelNumeros\obj\x86\Debug\puzzelNumeros.csproj.CoreCompileInputs.cache
+C:\Users\debor\OneDrive\Área de Trabalho\SENAI\Arquivos Puc\ATP\puzzelNumeros\puzzelNumeros\obj\x86\Debug\puzzelNumeros.exe
+C:\Users\debor\OneDrive\Área de Trabalho\SENAI\Arquivos Puc\ATP\puzzelNumeros\puzzelNumeros\obj\x86\Debug\puzzelNumeros.pdb

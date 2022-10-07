@@ -1,0 +1,5 @@
+/Users/arturmol/Documents/Documentos/PUC/ATP/lista de lab/2016_1/puzzelNumeros/puzzelNumeros/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/arturmol/Documents/Documentos/PUC/ATP/lista de lab/2016_1/puzzelNumeros/puzzelNumeros/bin/Debug/puzzelNumeros.exe.mdb
+/Users/arturmol/Documents/Documentos/PUC/ATP/lista de lab/2016_1/puzzelNumeros/puzzelNumeros/bin/Debug/puzzelNumeros.exe
+/Users/arturmol/Documents/Documentos/PUC/ATP/lista de lab/2016_1/puzzelNumeros/puzzelNumeros/obj/x86/Debug/puzzelNumeros.exe
+/Users/arturmol/Documents/Documentos/PUC/ATP/lista de lab/2016_1/puzzelNumeros/puzzelNumeros/obj/x86/Debug/puzzelNumeros.exe.mdb

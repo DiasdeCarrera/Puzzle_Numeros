@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="puzzelNumeros/puzzelNumeros.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="puzzelNumeros/Program.cs">
+    <Files>
+      <File FileName="puzzelNumeros/Program.cs" Line="5" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="puzzelNumeros/Program.cs" line="126" offsetX="365" offsetY="1875" expression="casaZero.linha" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
